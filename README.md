@@ -2,12 +2,12 @@ SteelCon 2014 - Python Process Injection Proof of Concept Code
 =========================
 
 Proof of Concept code written to demonstrate using python-ptrace to inject code into arbritary processes on Linux
-for my talk at SteelCon in July 2014.
+for my talk at [SteelCon] in July 2014.
 
 Dependencies:
 ----
-* python-paramiko (for DiabolicalMouse-mass.py stager utility)
-* python-ptrace (for injection tools)
+* [python-paramiko] (for DiabolicalMouse-mass.py stager utility)
+* [python-ptrace] (for injection tools)
 
 Licence:
 ----
@@ -28,4 +28,20 @@ Darren Martyn
 
 Contact:
 ----
-Best way is probably twitter - @info_dox
+Best way is probably twitter - [@info_dox]
+
+Thanks
+----
+Many thanks to the [SteelCon] crew for giving me a chance to present this, and also to my colleagues at [Xiphos Research Labs] who helped me out with presenting it and testing out the code.
+
+Also thanks to [jtripper], [elfmaster], and the various authors of [Phrack] articles that helped me get the idea solid in my head and understand what I was trying to do with their sample code and srticles and such
+
+
+[SteelCon]:http://www.steelcon.info/
+[python-paramiko]:http://www.paramiko.org/en/latest/
+[python-ptrace]:http://python-ptrace.readthedocs.org/en/latest/
+[@info_dox]:https://twitter.com/info_dox
+[Xiphos Research Labs]:http://www.xiphosresearch.com/
+[jtripper]:https://github.com/jtripper
+[elfmaster]:http://bitlackeys.org/
+[Phrack]:http://phrack.org/
