@@ -34,8 +34,11 @@ Thanks
 ----
 Many thanks to the [SteelCon] crew for giving me a chance to present this, and also to my colleagues at [Xiphos Research Labs] who helped me out with presenting it and testing out the code.
 
-Also thanks to [jtripper], [elfmaster], and the various authors of [Phrack] articles that helped me get the idea solid in my head and understand what I was trying to do with their sample code and srticles and such
+Also thanks to [jtripper], [elfmaster], and the various authors of [Phrack] articles that helped me get the idea solid in my head and understand what I was trying to do with their sample code and articles and such
 
+Notes
+----
+Lots of work to be done. Also, please, for the love of god, use your own shellcode...
 
 [SteelCon]:http://www.steelcon.info/
 [python-paramiko]:http://www.paramiko.org/en/latest/
